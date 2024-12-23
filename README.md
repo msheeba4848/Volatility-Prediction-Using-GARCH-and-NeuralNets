@@ -78,6 +78,12 @@ Advanced configurations included:
 - Neural networks offer unparalleled accuracy and flexibility but demand computational resources and fine-tuning.
 - Hybrid approaches combining traditional and deep learning models may balance interpretability and predictive power.
 
+---
+
+## License
+
+This project is licensed under an **All Rights Reserved** license. Unauthorized use, distribution, or modification of the code is strictly prohibited. For inquiries or permission requests, please contact [sm3924@georgetown.edu or msheeba00@gmail.com].
+
 ### Conclusion
 
 This comparative analysis demonstrates the potential of neural networks, particularly LSTMs, to outperform traditional models in financial time series forecasting. Statistical models like EGARCH provide a robust baseline, while deep learning architectures capture intricate market dynamics. Future work could focus on hybrid frameworks, ensemble methods, and integrating exogenous variables to enhance volatility prediction models for both Ethereum and Monero.
